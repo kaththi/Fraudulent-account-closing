@@ -10,10 +10,10 @@ Team members:1.Kathiresan.S(15csa29)
 
 
 Module Split-up:
-1.Designing the clone Web page of Particular Organization.
-2.Data entry.
-3.Pattern matching (Data sets).
-4.Reporting and sending the mail.
+1.Designing the clone Web page of Particular Organization.(Prabu.M)   
+2.Data entry.(Kathiresan.s)
+3.Pattern matching (Data sets).(Marimuthu.K)
+4.Reporting and sending the mail.(Kathiresan.s)
 
 
 PROPOSED SYSTEM:
