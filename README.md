@@ -28,6 +28,8 @@ This technology increases the productivity for human employees who no longer are
 It will increses the productivitiy time and reduce cost in the system.
 
 
+PROJECT STATUS: Completation 90%
+
 
 
 
